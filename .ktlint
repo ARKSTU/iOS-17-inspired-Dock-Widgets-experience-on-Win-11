@@ -1,0 +1,2 @@
+# ktlint configuration for iOS 17 Launcher
+disabled_rules=no-wildcard-imports,import-ordering
